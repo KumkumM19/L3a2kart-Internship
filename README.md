@@ -1,7 +1,7 @@
 # internship_test
 
-![Output_Screenshot1](assets/images/Final_Image1.jpg){:width="100"}
-![Output_Screenshot2](assets/images/Final_Image2.jpg){:width="100"}
+![Output_Screenshot1](assets/images/Final_Image1.jpg)
+![Output_Screenshot2](assets/images/Final_Image2.jpg)
 
 
 ## Getting Started
